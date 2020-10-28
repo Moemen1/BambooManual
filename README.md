@@ -1,4 +1,4 @@
-# BambooManual
+# Bamboo Manual
 Bamboo is a Continuous Integration (CI) server that can be used to automate the release management for a software application, thus creating a continuous delivery pipeline. This means that builds, unit tests, integration tests and so forth are performed or triggered whenever code is committed to the repository. This methodology ensures that new changes are integrated well into the existing code base. Integration builds provide feedback on the quality of new changes.
 
 Bamboo solves numerous problems for solo and team projects. Solo developers can rely on the automated builds and test processes to check for the quality of new code, therefore allowing them to focus on coding. Another advantage of Bamboo is that the deployments can be automated to a server, such as App Store, Google Play or Azure. Additionally Bamboo is a way to manage different builds that have different targets or requirements. This is useful because production builds have different requirements than development or test builds.
